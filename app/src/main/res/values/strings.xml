@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pixelium</string>
+    <string name="action_settings">Settings</string>
+    <string name="preButton">PREVIOUS WORKS</string>
+    <string name="canvasButton">CANVAS</string>
+    <string name="alarmButton">ALARM CLOCK</string>
+    <string name="lockButton">CHILD LOCK MODE</string>
+</resources>
