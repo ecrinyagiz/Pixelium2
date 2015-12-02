@@ -58,7 +58,7 @@ public class OpeningScreeen extends AppCompatActivity {
                 startActivity(setAlarm);
                 break;
             case R.id.canvas: // if the canvas button is selected open DRAWINGPANEL
-                Intent mycanvas = new Intent(this,DrawingPanelView.class);
+                Intent mycanvas = new Intent(this,DrawingViewPanel.class);
                 startActivity(mycanvas);
                 break;
             case R.id.previous: // if the preWorks button is selected go to PreviousWorks
