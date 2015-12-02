@@ -11,4 +11,6 @@ public class Brush extends Tools {
     {
         super(context,str);
     }
+
+public Brush(){}
 }
